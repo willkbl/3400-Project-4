@@ -1,5 +1,8 @@
 {
     "m_Dictionary": {
+<<<<<<< HEAD
+        "m_DictionaryValues": []
+=======
         "m_DictionaryValues": [
             {
                 "type": "UnityEngine.ProBuilder.SemVer, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -217,5 +220,6 @@
                 "value": "{\"m_Value\":0.125}"
             }
         ]
+>>>>>>> 06fee43776f4a8d91f5299308210a9c40ea3cf0d
     }
 }
